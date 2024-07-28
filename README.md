@@ -1,5 +1,15 @@
 # AngularRedux
 
+
+### agregando comandos
+>- proyecto redux ngrx-store-localstorage angular 18 standalone 
+>- ng new angular-redux --standalone
+>- cd angular-redux
+>- ng add @ngrx/store @ngrx/store-devtools
+>- npm install @ngrx/store-localstorage --save
+>- npm run start
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
 
 ## Development server
